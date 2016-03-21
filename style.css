@@ -94,6 +94,9 @@ label.light {
   display: inline;
 }
 
+html{
+  background-color: #ffffff;
+}
 .number {
   background-color: #5fcf80;
   color: #fff;
